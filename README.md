@@ -1,10 +1,6 @@
 # JavaScript_CrashCourse
 
-# JavaScript Crash Course
-
 This repository contains the materials and code samples from my JavaScript crash course. The course covers fundamental concepts and provides hands-on examples to help beginners get started with JavaScript programming.
-
-## Course Outline
 
 ### 1. Data Types
 
